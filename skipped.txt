@@ -1,0 +1,21 @@
+flatten
+modified run-length encoding
+decode a run-length encoded list
+run-length encoding of a list (direct solution)
+rand_select
+lotto_select
+permutation
+extract
+group
+length_sort
+frequency_sort
+is_prime
+Determine the Prime Factors of a Given Positive Integer (2)
+Calculate Euler's Totient Function Φ(m) (Improved)
+all_primes
+goldbach
+goldback_list
+table2
+table
+gray
+huffman
